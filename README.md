@@ -1,7 +1,5 @@
 Server for exercise at https://github.com/amberjohnsonsmile/serve-data-to-clients/tree/master/drills/version-2
 
-Deployed at https://immense-sierra-56869.herokuapp.com/
-
 Link to server:
 https://immense-sierra-56869.herokuapp.com/
 
